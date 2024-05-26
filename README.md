@@ -1,4 +1,4 @@
-# Sapphire-24 
+# Sapphire-23
 
 Board Description:
 - SoC Development Board
