@@ -12,5 +12,5 @@ Features:
 - On-Board USB-to-JTAG
 - Embedded Linux-Capable
 
-The board was designed during Advanced Digital Hardware Design from "Phils Lab". Course author Philip Salmony.
+The board was designed during Advanced Digital Hardware Design course from "Phils Lab". Course author Philip Salmony.
 https://fedevel.com/courses/advanced-digital-hardware-design
